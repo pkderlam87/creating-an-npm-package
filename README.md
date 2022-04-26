@@ -2,7 +2,7 @@
 To install run:
 
 ```
-npm install silly-input
+npm install background-change-color-input
 ```
 
 To use in your project, add a class of `.silly-input` to any HTML input.

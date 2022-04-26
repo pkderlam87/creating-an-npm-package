@@ -1,5 +1,5 @@
 {
-  "name": "silly-input",
+  "name": "background-change-color-input",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "babel-preset-es2015": "^6.24.1"
   },
   "dependencies": {
+    "background-change-color-input": "^1.0.0",
     "silly-input": "^1.0.1"
   }
 }

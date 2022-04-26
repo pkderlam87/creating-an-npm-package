@@ -1,4 +1,6 @@
-"use strict";
+import sillyInput from "background-change-color-input";
+
+sillyInput();
 
 Object.defineProperty(exports, "__esModule", {
 	value: true
