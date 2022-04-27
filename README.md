@@ -17,3 +17,13 @@ import sillyInput from "silly-input";
 
 sillyInput();
 ```
+
+To run this project is necessary to install parceljs, 
+and after that, in the terminal (VSCode):
+```
+parcel index.html
+```
+
+A new url appear, and it look like: http://localhost:${numbers}
+```
+Follow the link and you will be able to check the functionality.
